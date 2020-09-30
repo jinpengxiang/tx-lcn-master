@@ -1,0 +1,4 @@
+txlcn_random=TxlcnRandomLoadBalance
+txlcn_roundrobin=TxlcnRoundRobinLoadBalance
+txlcn_leastactive=TxlcnLeastActiveLoadBalance
+txlcn_consistenthash=TxlcnConsistentHashLoadBalance
